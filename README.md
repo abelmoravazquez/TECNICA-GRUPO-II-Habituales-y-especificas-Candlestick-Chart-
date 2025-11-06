@@ -23,7 +23,7 @@ Datos obtenidos del conjunto actualizado diariamente:
 
 - **Python 3**
 - **Plotly Graph Objects**
-- **Jupyter Notebook / Google Colab**
+- **Jupyter Notebook**
 
 ---
 
