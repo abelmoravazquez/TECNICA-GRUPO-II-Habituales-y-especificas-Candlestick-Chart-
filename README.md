@@ -1,7 +1,7 @@
 # Evolución precio acción Apple – Candlestick Chart (Oct 2024 – Nov 2025)
 
 Visualización interactiva de la evolución diaria del precio de la acción de **Apple Inc.** entre octubre de 2024 y noviembre de 2025, mediante un gráfico de velas (*candlestick chart*) elaborado con **Plotly** en Python.
-## 📊 Descripción
+## Descripción
 
 Cada vela representa una sesión bursátil:
 - **Cuerpo verde** → cierre mayor que la apertura (subida de precio).  
@@ -12,14 +12,14 @@ El objetivo de la visualización es mostrar la evolución del precio de la acci�
 
 ---
 
-## 📈 Fuente de datos
+## Fuente de datos
 
 Datos obtenidos del conjunto actualizado diariamente:  
 [Kaggle – Apple Stock Data Daily (Isaac Lopgu)](https://www.kaggle.com/datasets/isaaclopgu/apple-stock-data-daily-updated?resource=download)
 
 ---
 
-## 🧰 Tecnologías empleadas
+## Tecnologías empleadas
 
 - **Python 3**
 - **Plotly Graph Objects**
@@ -27,7 +27,7 @@ Datos obtenidos del conjunto actualizado diariamente:
 
 ---
 
-## ✍️ Autor
+## Autor
 
 **Abel Mora Vázquez**  
 Máster en Ciencia de Datos – Visualización de Datos 2025  
